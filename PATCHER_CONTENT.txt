@@ -1,0 +1,4 @@
+http://github.com/timeinpro2020/timeinpro/raw/master/TimeInPRO.exe<
+http://github.com/timeinpro2020/timeinpro/raw/master/zip4j133.jar<lib
+https://github.com/timeinpro2020/timeinpromacapp/raw/master/TimeInPro.jar<
+https://raw.githubusercontent.com/timeinpro2020/timeinpromacapp/master/ver.txt<
