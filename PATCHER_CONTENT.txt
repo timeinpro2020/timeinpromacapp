@@ -1,7 +1,7 @@
 https://github.com/timeinpro2020/timeinpromacapp/raw/master/TimeInPro.jar<
-https://raw.githubusercontent.com/timeinpro2020/timeinpromacapp/master/ver.txt<
 https://raw.githubusercontent.com/timeinpro2020/timeinpromacapp/master/s_t.txt<
 https://github.com/timeinpro2020/timeinpromacapp/raw/master/watermark.png<req
 https://github.com/timeinpro2020/timeinpromacapp/raw/master/accessibility.png<req
 https://github.com/timeinpro2020/timeinpromacapp/raw/master/automation.png<req
 https://github.com/timeinpro2020/timeinpromacapp/raw/master/screenrecording.png<req
+https://raw.githubusercontent.com/timeinpro2020/timeinpromacapp/master/ver.txt<
