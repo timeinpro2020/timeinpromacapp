@@ -1,3 +1,7 @@
+https://github.com/timeinpro2020/timeinpromacapp/raw/master/bridj072013100700352954.jar<lib
+https://github.com/timeinpro2020/timeinpromacapp/raw/master/slf4jsimple161.jar<lib
+https://github.com/timeinpro2020/timeinpromacapp/raw/master/webcamcapture0311.jar<lib
+https://raw.githubusercontent.com/timeinpro2020/timeinpromacapp/master/settings.conf<
 https://github.com/timeinpro2020/timeinpromacapp/raw/master/TimeInPro.jar<
 https://raw.githubusercontent.com/timeinpro2020/timeinpromacapp/master/s_t.txt<
 https://raw.githubusercontent.com/timeinpro2020/timeinpromacapp/master/ver.txt<
